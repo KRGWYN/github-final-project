@@ -1,7 +1,7 @@
 How to Contribute
-Bug reports.
-Bug fixes.
-Documentation improvements
-Enhancements.
-Ideas are welcome
+bug reports,
+bug fixes,
+documentation improvement,
+enhancements,
+and ideas are welcome.
 
